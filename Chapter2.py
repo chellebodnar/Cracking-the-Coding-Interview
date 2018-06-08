@@ -172,7 +172,7 @@ def intersection(head_a, head_b):
 
 
 
-# 2.7
+# 2.8
 """Given a circular linked list (one which contains a loop), implement an algorithm that returns the node at the beginning of the loop."""
 # Let n be the number of distinct nodes in the list
 # O(n) time, O(1) space
